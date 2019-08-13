@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "A fresh start"
+title: "A fresh start"
+date:
 categories: [blogging]
+published: false
 ---
 
 Post about not migrating my old content from Wordpress.
