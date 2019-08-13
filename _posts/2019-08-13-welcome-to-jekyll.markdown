@@ -1,25 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "New Site"
 date:   2019-08-13 15:29:10 +0100
-categories: jekyll update
+categories: blogging
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm finally doing it, hopefully! Migrating my blog to a site I have built and maintain myself, instead of being tied to Wordpress.
 
-Jekyll also offers powerful support for code snippets:
+Wordpress is great if you're just getting started blogging, and want to get setup quickly and easily. But if you're looking for a bit more freedom and creativity in your blog, and want to DIY it, then Jekyll is a great next step.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Right now the site is pretty basic and not deployed, so there are a few things on my to do list:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+1. Deploy this basic site to GitHub pages
+2. Setup my custom domain for the site
+3. Switch to a prettier theme
+4. Carry on blogging!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Wish me luck 🍀
