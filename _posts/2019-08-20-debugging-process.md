@@ -3,10 +3,15 @@ layout: post
 title: "Debugging Process"
 date: 2019-08-20 18:23:10 +0100  
 categories: [coding, debugging]
+excerpt_separator: <!--more-->
 published: true
 ---
 
+![debugging process](/images/debugging-process.png)
+
 Today I ran a workshop introducing some of the new cohort at [Makers](http://makers.tech){:target="_blank"} to the idea of having a repeatable debugging process.
+
+<!--more-->
 
 Most developers find this process naturally, and will apply it without giving it too much thought. But at Makers we are trying to rapidly up-skill developers, and help them to build good coding processes in weeks, not months or years.
 
