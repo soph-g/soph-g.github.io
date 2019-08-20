@@ -20,6 +20,6 @@ This site uses the [Reverie](https://www.amitmerchant.com/reverie/introducing-re
 
 - [x] Deploy the site 🚀
 - [x] Implement a Jekyll Theme 💅🏻
-- [ ] Improve the styling 🧚🏻‍
+- [ ] Improve the styling 💖
 - [ ] Implement Google Analytics  integration 🕵🏼‍
 - [ ] Implement Disqus for commenting 💬
