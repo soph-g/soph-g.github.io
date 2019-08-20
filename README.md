@@ -15,6 +15,17 @@ Navigate to `localhost:4000` to see the site.
 
 This site uses the [Reverie](https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/) theme.
 
+## 🌈 Styling 🌈
+
+Colours:
+
+```
+#CBC5C1
+#A2AAB0
+#EBECED
+#4C586F
+#3E3E3B
+```
 
 ## 🚧 To Do 🚧
 
