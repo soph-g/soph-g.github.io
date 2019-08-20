@@ -10,7 +10,7 @@ Today I ran a workshop introducing some of the new cohort at [Makers](http://mak
 
 Most developers find this process naturally, and will apply it without giving it too much thought. But at Makers we are trying to rapidly up-skill developers, and help them to build good coding processes in weeks, not months or years.
 
-## Do you have a repeatable debugging process?
+## Do you have a debugging process?
 
 If you're at the very start of your coding journey, you might not yet have a repeatable debugging process. How can you tell if you need one? Look out for these signs:
 
@@ -24,7 +24,7 @@ If you're at the very start of your coding journey, you might not yet have a rep
 
 These are just some of the signs that you should work on having a repeatable debugging process! Adopting a methodical approach should help you identify and resolve bugs much quicker.
 
-## What does a repeatable debugging process look like?
+## What does a debugging process look like?
 
 Luckily, there are only a few steps that you need to master to make a big difference to your debugging approach.
 
