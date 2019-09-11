@@ -11,3 +11,4 @@ published: false
 - Notes app
 - Daily log
 - Blog
+- Rubber duck
