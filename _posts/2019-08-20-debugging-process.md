@@ -11,9 +11,9 @@ published: true
 
 Today I ran a workshop introducing some of the new cohort at [Makers](http://makers.tech){:target="_blank"} to the idea of having a repeatable debugging process.
 
-<!--more-->
-
 Most developers find this process naturally, and will apply it without giving it too much thought. But at Makers we are trying to rapidly up-skill developers, and help them to build good coding processes in weeks, not months or years.
+
+<!--more-->
 
 ## Do you have a debugging process?
 
