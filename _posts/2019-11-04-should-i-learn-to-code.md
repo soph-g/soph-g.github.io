@@ -2,7 +2,7 @@
 layout: post
 title: "Should I learn to code?"
 date: 2019-11-04 21:38:00 +0000   
-published: false
+published: true
 ---
 
 I get asked this question pretty often! And I'm also familiar with it's cousin - 'I should learn to code!'. The UK has long had a technical skills gap, and in recent times there have been a wealth of programmes encouraging women to give coding a try.
