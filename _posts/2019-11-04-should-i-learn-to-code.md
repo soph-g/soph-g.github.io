@@ -5,9 +5,10 @@ date: 2019-11-04 21:38:00 +0000
 published: true
 ---
 
-I get asked this question pretty often! And I'm also familiar with it's cousin - 'I should learn to code!'. The UK has long had a technical skills gap, and in recent times there have been a wealth of programmes encouraging women to give coding a try.
+As a Technical Coach I get asked this question pretty often! I also often hear it's cousin -  the declaration 'I should learn to code!'
 
-But, our time is limited, so how should you decide whether to invest some serious time and energy into learning to code?
+The UK has long had a technical skills gap, and in recent times there have been a wealth of programmes encouraging women to give coding a try. But, your time is limited, so how should you decide whether to invest some serious time and energy into learning to code?
+Here are some questions I recommend thinking about before taking the plunge.
 
 ## Have you tried coding yet?
 Before deciding whether to learn to code, it's essential to give it a try. There are plenty of free courses out there - one of the most comprehensive is [freeCodeCamp](https://www.freecodecamp.org/).
