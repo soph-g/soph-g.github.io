@@ -34,7 +34,7 @@ By this I mean - do *you* actually *want* to learn to code?!
 Anyone, and I mean anyone, can learn to code if they have the drive. But that drive has to come from within.
 
 
-# What if I don't really want to learn?
+# What if I don't really want to learn to code?
 
 That's fine!
 
