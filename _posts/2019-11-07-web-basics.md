@@ -2,7 +2,7 @@
 layout: post
 title: "What is a web app?"
 date: 2019-11-07 22:13:00 +0000     
-published: false
+published: true
 ---
 
 When I look back on my experience of learning to code, one thing that surprises me is just how long it took me to understand fundamental concepts about the web, and web apps. Specifically, what is meant by the terms 'website', 'app', 'web app', 'mobile app', and 'native app'. For a long time I thought some of these could be used interchangeably, in particular I was very confused about the difference between a website and a web app!
