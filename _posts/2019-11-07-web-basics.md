@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Basics"
+title: "What is a web app?"
 date: 2019-11-07 22:13:00 +0000     
 published: false
 ---
