@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tools to accelerate your learn to code journey"
+title: "Tools to accelerate your learning journey"
 date:   
 categories: [learning]
 published: false
