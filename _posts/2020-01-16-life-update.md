@@ -14,20 +14,6 @@ I'm also working on a whole host of small changes by re-committing to the habits
 
 <!--more-->
 
-Towards the end of 2019 I decided to do a reflection on my year, and where I want to go in 2020. I picked the weekend of the winter solstice for a couple of reasons. Firstly, it's the shortest and therefore darkest day of the year - perfect for staying inside and getting cosy. Secondly, it marks the very depths of winter, and the turning point at which we start to move (slowly) towards spring.
+As I move back into a developer role I've also decided to go on my own educational adventure - I'm going to start a part-time Computer Science BSc.
 
-I've tried to do this several times in the past but usually end up overwhelmed and give up. This time I broke my review into 6 different areas, plus a big picture review.
-
-1. Relationships
-2. Work
-3. Money
-4. Hobbies
-5. Environment
-6. Self-care
-7. Big Picture
-
-As a result of this review I identified a few things I want to do this year:
-
-- Find the fun in blogging again
-- Go back to school
-- Make self-care a part of my routine
+My first modules will start in April, and I am hoping to complete the degree in 5 years. It's a fully remote course, so it can fit around my life, and it's also one of the first of it's kind. 
