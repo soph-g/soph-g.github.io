@@ -31,6 +31,6 @@ Finally a fun one! I started learning Calligraphy a few years ago but didn't enj
 Again, I'm aiming to find a little bit of time every day to practice this skill. Aiming for 15-30 minutes a day. I don't think I'll manage anything quite as impressive as this though...
 
  ![Beautiful iPad notes](../images/beautiful-ipad-notes.png)
- <p style="text-align: center;"><i>Image from the <a src="https://medium.goodnotes.com/how-to-create-good-looking-notes-on-the-ipad-50289cb37d90">GoodNotes blog</a></i></p>
+ <p style="text-align: center;"><i>Image from the <a target="blank" href="https://medium.goodnotes.com/how-to-create-good-looking-notes-on-the-ipad-50289cb37d90">GoodNotes blog</a></i></p>
 
  As always, habits are about progress and just keeping going. It's important to keep habits realistic, and not give up after missing a day or two. I think it's also really important to not have any expectations about progress or goals. Instead I try to find enjoyment in the practice itself - progress cannot be controlled, but it also cannot be avoided with daily practice.
