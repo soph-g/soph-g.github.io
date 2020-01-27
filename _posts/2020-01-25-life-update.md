@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020 Life Update"
-date: 2020-01-25 00:16:10 +0000    
+date: 2020-01-25 16:10:00 +0000    
 categories: [life, habits]
 excerpt_separator: <!--more-->
 published: true
