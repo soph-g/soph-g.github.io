@@ -9,7 +9,7 @@ published: true
 
 It's a new year, and I'm starting it with a few changes in progress - December ended up being a whirlwind of activity!
 
-The biggest change by far is that I'm leaving [Makers](). I've been coaching for two years now, and it's definitely time for a change. I've got my next job lined up so I'll share more details once I've started, but for now it's enough to know that I'm going back to web development and couldn't be happier :)
+The biggest change by far is that I'm leaving [Makers](http://www.makers.tech). I've been coaching for two years now, and it's definitely time for a change. I've got my next job lined up so I'll share more details once I've started, but for now it's enough to know that I'm going back to web development and couldn't be happier :)
 
 I'm also working on a whole host of small changes by re-committing to the habits I want to have in my life.
 
