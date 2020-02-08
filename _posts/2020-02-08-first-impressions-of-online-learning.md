@@ -4,7 +4,7 @@ title: "🎓💻🤓 First impressions of online learning"
 date: 2020-02-08 18:00:00 +0000    
 categories: [learning, computer science]
 excerpt_separator: <!--more-->
-published: false
+published: true
 ---
 
 As I mentioned in my last post, I've started some introductory Computer Science courses, in preparation for starting my BSc in April with the University of London online course  
