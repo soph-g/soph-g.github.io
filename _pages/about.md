@@ -4,9 +4,7 @@ title: "Hi, I'm Sophie"
 permalink: /about/
 ---
 
-I'm a Technical Coach at [Makers](http://makers.tech){:target="_blank"} in London, where I help people learn to code and become web developers.
-
-I am about to embark on my own journey and study for a degree in Computer Science 🎓. This will be my second degree but my first time studying on a part-time remote course.
+I'm a Backend Ruby Engineer at [Cleo](http://meetcleo.com){:target="_blank"} in London, where I contribute to building the sassiest money management chat bot in the world. Previously I was a Coach at [Makers](http://makers.tech){:target="_blank"}, and I have helped over 600 people change their lives and learn to code.
 
 This blog is where I share my musings on learning 📓, habits 🌱 and anything else I find interesting 💡
 
