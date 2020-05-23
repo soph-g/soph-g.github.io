@@ -26,7 +26,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sophie@makers.tech
+  email: sophie-gill@hotmail.com
   facebook:
   flickr:
   github: soph-g
@@ -50,8 +50,8 @@ google_analytics: UA-156279310-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://sophiegill.dev
-enforce_ssl: https://sophiegill.dev
+url: https://sophiegill.com
+enforce_ssl: https://sophiegill.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
