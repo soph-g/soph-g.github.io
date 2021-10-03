@@ -11,6 +11,12 @@ I spent a lot of time doing katas at the start of the year but have let the prac
 
 I sat down today to do some practice katas for an interview prep group, and thought I'd share the outcome here.
 
+I covered two problems today:
+
+- [Persistence](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/ruby)
+
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
 <!--more-->
 ## Problem 1 - Persistence
 
