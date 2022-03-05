@@ -8,4 +8,4 @@ I'm a Backend Ruby Engineer at [Cleo](http://meetcleo.com){:target="_blank"} in 
 
 This blog is where I share my musings on learning 📓, habits 🌱 and anything else I find interesting 💡
 
-I'm a proud 🦀 [Cancer](https://www.vice.com/en_us/article/8xe4xp/cancer-astrology-worst-traits-moody){:target="_blank"} and [ENFP](https://www.16personalities.com/enfp-personality){:target="_blank"}.
+I'm a proud 🦀 [Cancer](https://www.vice.com/en_us/article/8xe4xp/cancer-astrology-worst-traits-moody){:target="_blank"} and [INFP](https://www.16personalities.com/infp-personality){:target="_blank"}.
